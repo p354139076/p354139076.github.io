@@ -3,6 +3,33 @@
 
 
     
+    
+  <url>
+    <loc>http://yoursite.com/2017/06/07/my-first/</loc>
+    <lastmod>2017-06-07T05:45:59.050Z</lastmod>
+    <data>
+        <display>
+        <title>my first</title>
+        <pubTime>2017-06-07T05:43:27.000Z</pubTime>
+        
+        <tag>nodejs</tag>
+         
+        <tag>hexo</tag>
+         
+        <tag>Next</tag>
+         
+         
+           
+             
+              <breadCrumb title="hexo" url="http://yoursite.com/categories/hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
   <url>
     <loc>http://yoursite.com/2017/06/07/hello-world/</loc>
     <lastmod>2017-06-07T01:47:00.601Z</lastmod>
